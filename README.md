@@ -1,4 +1,4 @@
-# Mortgage-interest-deductions-Not-a-bad-idea-after-all-Rotberg & Steinberg, Journal of Monetary Economics
+# Mortgage interest deductions? Not a bad idea after all Rotberg & Steinberg, Journal of Monetary Economics
 
 This file shows you how to run the simulations in "Mortgage interest deductions? Not a bad idea after all", by Rotberg S., and Steinberg J., Journal of Monetary Economics.
 
