@@ -1,6 +1,6 @@
 # Mortgage-interest-deductions-Not-a-bad-idea-after-all-
 
-This file shows you how to run the simulations in "Mortgage interest deductions? Not a bad idea after all" (by Rotberg & Steinberg).
+This file shows you how to run the simulations in "Mortgage interest deductions? Not a bad idea after all", by Rotberg S., and Steinberg J., Journal of Monetary Economics.
 
 Before running each simulation you will have to run the following commands:
 
