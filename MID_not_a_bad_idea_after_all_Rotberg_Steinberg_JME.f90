@@ -1,6 +1,6 @@
     module Global_Vars
 
-		implicit none
+	implicit none
         
         integer, parameter :: is_counterfactual=0
         integer, parameter :: endogenous_rental_market=0
